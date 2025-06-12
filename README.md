@@ -1,5 +1,5 @@
 # Hi, I'm Dalea
-### A PassionateBeginner Data Analyst eager to turn data into actionable insights!
+### A Passionate Beginner Data Analyst eager to turn data into actionable insights!
 
 ## About Me
 I'm a budding Data Analyst with a strong foundation in Excel, SQL, basic R programming for data manipulation.My journey into data analysis is driven by a curiosity to understand patterns, solve problems and contribute to data-driven decision-making. I'm ctively seeking opportunities to apply my skills and grow within a dynamic team. I am eager to leverage data-driven insights to solve real-world problems and contribute to impactful projects.
@@ -15,4 +15,6 @@ Here's a snapshot of my technical toolkit:
 
 ### Currently Learning
 
-I am currently diving deeper
+I am currently diving deeper into:
+- Advanced SQL for complex queries.
+- Juypter Notebook 
