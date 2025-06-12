@@ -17,4 +17,11 @@ Here's a snapshot of my technical toolkit:
 
 I am currently diving deeper into:
 - Advanced SQL for complex queries.
-- Juypter Notebook 
+- Juypter Notebook for code execution, documentation, and visualization.
+- Python for intermediate and project-based learning.
+
+ ### My Projects & Portfolio
+ Here are a few highlights from my work:
+
+ - **[Divvy Bike Data Analysis Project]**:
+
