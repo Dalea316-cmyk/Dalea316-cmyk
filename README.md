@@ -33,8 +33,13 @@ I am currently diving deeper into:
  Here are a few highlights from my work:
 
  - **[Divvy Bike Dataset 1]**:
-This project involved a comprehensive analysis of the Divvy bike-sharing dataset, focusing on understanding ridership patterns and station performace. Key technologies utilized include MYSQL for efficient data storage, management, and complex querying, and Power BI for data visualization and dashboard creation. The analysis aimed to uncover insights into popular routes, peak usage times, rider demographics such as annual members vs. casual user behavior, and the overall operational efficiency of the Divvy bike-sharing system. This project demonstrates proficiency in data extraction, transformation, loading 9ETL), and presenting data-driven findings.
+This project involved a comprehensive analysis of the Divvy bike-sharing dataset, focusing on understanding ridership patterns and station performace. Key technologies utilized include 'MYSQL' for efficient data storage, management, and complex querying, and 'Power BI' for data visualization and dashboard creation. The analysis aimed to uncover insights into popular routes, peak usage times, rider demographics such as annual members vs. casual user behavior, and the overall operational efficiency of the Divvy bike-sharing system. This project demonstrates proficiency in data extraction, transformation, loading 9ETL), and presenting data-driven findings.
+
 The link to the Divvy Bike Data Analysis repository is: 
 [https://github.com/Dalea316-cmyk/divvy_bike_dataset]
 
-- **[
+- **[Bellabeat Daily Activity Data Project 2]:**
+This project involved a thorough analysis of Bellabeat's daily activity data, aiming to identify user behavioral patterns related to fitness and wellness. I leveraged 'MYSQL' for eficient data management, cleaning, and complex querying, and 'Power BI' for cerating dashboard and visualizations. The analysis focused on understanding trends in daily steps,active minutes, and calorie expenditure, ultimately providing actionable insights to inform Bellabeats's marketing strategies and product development.
+
+The link to the Bellabeat daily activity data projectrepository is:
+
