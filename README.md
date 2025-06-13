@@ -48,4 +48,6 @@ The link to the Bellabeat daily activity data projectrepository is:
 * **LinkedIn:**
 [https://www.linkedin.com/in/dalea-kumar-74679a369]
 * **Email:**
-[
+[daleakumar92@gmail.com]
+
+Looking forward to connecting and collaborating on data-driven ventures!
