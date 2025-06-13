@@ -42,4 +42,10 @@ The link to the Divvy Bike Data Analysis repository is:
 This project involved a thorough analysis of Bellabeat's daily activity data, aiming to identify user behavioral patterns related to fitness and wellness. I leveraged 'MYSQL' for eficient data management, cleaning, and complex querying, and 'Power BI' for cerating dashboard and visualizations. The analysis focused on understanding trends in daily steps,active minutes, and calorie expenditure, ultimately providing actionable insights to inform Bellabeats's marketing strategies and product development.
 
 The link to the Bellabeat daily activity data projectrepository is:
+[https://github.com/Dalea316-cmyk/bellabeat_daily_activity_data_project]
 
+## Connect with me
+* **LinkedIn:**
+[https://www.linkedin.com/in/dalea-kumar-74679a369]
+* **Email:**
+[
