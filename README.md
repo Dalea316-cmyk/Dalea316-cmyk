@@ -33,7 +33,7 @@ I am currently diving deeper into:
  Here are a few highlights from my work:
 
  - **[Divvy Bike Dataset 1]**:
-This project involved a comprehensive analysis of the Divvy bike-sharing dataset, focusing on understanding ridership patterns and station performace. Key technologies utilized include 'MYSQL' for efficient data storage, management, and complex querying, and 'Power BI' for data visualization and dashboard creation. The analysis aimed to uncover insights into popular routes, peak usage times, rider demographics such as annual members vs. casual user behavior, and the overall operational efficiency of the Divvy bike-sharing system. This project demonstrates proficiency in data extraction, transformation, loading 9ETL), and presenting data-driven findings.
+This project involved a comprehensive analysis of the Divvy bike-sharing dataset, focusing on understanding ridership patterns and station performace. Key technologies utilized include 'MYSQL' for efficient data storage, management, and complex querying, and 'Power BI' for data visualization and dashboard creation. The analysis aimed to uncover insights into popular routes, peak usage times, rider demographics such as annual members vs. casual user behavior, and the overall operational efficiency of the Divvy bike-sharing system. This project demonstrates proficiency in data extraction, transformation, loading (ETL), and presenting data-driven findings.
 
 The link to the Divvy Bike Data Analysis repository is: 
 [https://github.com/Dalea316-cmyk/divvy_bike_dataset]
